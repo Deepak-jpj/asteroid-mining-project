@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlmodel
+scikit-learn
+xgboost
+shap
+pandas
+numpy
+requests
+apscheduler
+python-dotenv
+httpx
