@@ -149,7 +149,7 @@ export default function Dashboard() {
               onClick={() => search.trim() && go(`/asteroid/${encodeURIComponent(search.trim())}`)}
               className="search-button-cyber"
             >
-              ANALYZE ->
+              ANALYZE →
             </button>
           </div>
 
